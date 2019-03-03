@@ -1,0 +1,14 @@
+<game>
+	<dpo>
+		<autorestart>true</autorestart>
+		<autorestartDuration>3.0</autorestartDuration>
+		<maxDepth>2</maxDepth>
+		<maxCheck>-1</maxCheck>
+		<benchmark>false</benchmark>
+		<penaltyAmount>1.5</penaltyAmount>
+		<emptyTileBonus>0.075</emptyTileBonus>
+		<positionalBonus>0.3</positionalBonus>
+		<ascendingTilesBonus>0.5</ascendingTilesBonus>
+		<losingPenalty>100000.0</losingPenalty>
+	</dpo>
+</game>

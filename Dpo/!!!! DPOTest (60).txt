@@ -1,0 +1,129 @@
+Game #1: Score: 4080, Max tile: 2048, Moves: 1843
+Average score: 4080.000000
+ 2048: 100.000%
+Game #2: Score: 4174, Max tile: 2048, Moves: 1895
+Average score: 4127.000000
+ 2048: 100.000%
+Game #3: Score: 5752, Max tile: 4096, Moves: 2620
+Average score: 4668.666667
+ 2048: 66.667%
+ 4096: 33.333%
+Game #4: Score: 6232, Max tile: 4096, Moves: 2821
+Average score: 5059.500000
+ 2048: 50.000%
+ 4096: 50.000%
+Game #5: Score: 2902, Max tile: 2048, Moves: 1323
+Average score: 4628.000000
+ 2048: 60.000%
+ 4096: 40.000%
+Game #6: Score: 3754, Max tile: 2048, Moves: 1727
+Average score: 4482.333333
+ 2048: 66.667%
+ 4096: 33.333%
+Game #7: Score: 3720, Max tile: 2048, Moves: 1684
+Average score: 4373.428571
+ 2048: 71.429%
+ 4096: 28.571%
+Game #8: Score: 4412, Max tile: 2048, Moves: 1996
+Average score: 4378.250000
+ 2048: 75.000%
+ 4096: 25.000%
+Game #9: Score: 3172, Max tile: 2048, Moves: 1458
+Average score: 4244.222222
+ 2048: 77.778%
+ 4096: 22.222%
+Game #10: Score: 3712, Max tile: 2048, Moves: 1697
+Average score: 4191.000000
+ 2048: 80.000%
+ 4096: 20.000%
+Game #11: Score: 6134, Max tile: 4096, Moves: 2776
+Average score: 4367.636364
+ 2048: 72.727%
+ 4096: 27.273%
+Game #12: Score: 4074, Max tile: 2048, Moves: 1834
+Average score: 4343.166667
+ 2048: 75.000%
+ 4096: 25.000%
+Game #13: Score: 4224, Max tile: 2048, Moves: 1907
+Average score: 4334.000000
+ 2048: 76.923%
+ 4096: 23.077%
+Game #14: Score: 3422, Max tile: 2048, Moves: 1528
+Average score: 4268.857143
+ 2048: 78.571%
+ 4096: 21.429%
+Game #15: Score: 3798, Max tile: 2048, Moves: 1723
+Average score: 4237.466667
+ 2048: 80.000%
+ 4096: 20.000%
+Game #16: Score: 5344, Max tile: 4096, Moves: 2436
+Average score: 4306.625000
+ 2048: 75.000%
+ 4096: 25.000%
+Game #17: Score: 4284, Max tile: 2048, Moves: 1941
+Average score: 4305.294118
+ 2048: 76.471%
+ 4096: 23.529%
+Game #18: Score: 3764, Max tile: 2048, Moves: 1722
+Average score: 4275.222222
+ 2048: 77.778%
+ 4096: 22.222%
+Game #19: Score: 3244, Max tile: 2048, Moves: 1450
+Average score: 4220.947368
+ 2048: 78.947%
+ 4096: 21.053%
+Game #20: Score: 2052, Max tile: 1024, Moves: 929
+Average score: 4112.500000
+ 1024: 5.000%
+ 2048: 75.000%
+ 4096: 20.000%
+Game #21: Score: 6200, Max tile: 4096, Moves: 2794
+Average score: 4211.904762
+ 1024: 4.762%
+ 2048: 71.429%
+ 4096: 23.810%
+Game #22: Score: 4212, Max tile: 2048, Moves: 1903
+Average score: 4211.909091
+ 1024: 4.545%
+ 2048: 72.727%
+ 4096: 22.727%
+Game #23: Score: 4174, Max tile: 2048, Moves: 1894
+Average score: 4210.260870
+ 1024: 4.348%
+ 2048: 73.913%
+ 4096: 21.739%
+Game #24: Score: 5454, Max tile: 4096, Moves: 2464
+Average score: 4262.083333
+ 1024: 4.167%
+ 2048: 70.833%
+ 4096: 25.000%
+Game #25: Score: 3384, Max tile: 2048, Moves: 1537
+Average score: 4226.960000
+ 1024: 4.000%
+ 2048: 72.000%
+ 4096: 24.000%
+Game #26: Score: 3228, Max tile: 2048, Moves: 1468
+Average score: 4188.538462
+ 1024: 3.846%
+ 2048: 73.077%
+ 4096: 23.077%
+Game #27: Score: 3316, Max tile: 2048, Moves: 1496
+Average score: 4156.222222
+ 1024: 3.704%
+ 2048: 74.074%
+ 4096: 22.222%
+Game #28: Score: 4154, Max tile: 2048, Moves: 1895
+Average score: 4156.142857
+ 1024: 3.571%
+ 2048: 75.000%
+ 4096: 21.429%
+Game #29: Score: 3832, Max tile: 2048, Moves: 1736
+Average score: 4144.965517
+ 1024: 3.448%
+ 2048: 75.862%
+ 4096: 20.690%
+Game #30: Score: 2770, Max tile: 2048, Moves: 1264
+Average score: 4099.133333
+ 1024: 3.333%
+ 2048: 76.667%
+ 4096: 20.000%
