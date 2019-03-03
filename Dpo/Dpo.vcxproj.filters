@@ -69,9 +69,6 @@
     <ClInclude Include="src\math\matrix4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\math\quaternion.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\math\simpleMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -162,5 +159,18 @@
     <Image Include="icon1.ico">
       <Filter>Resource Files</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="!!! DPOTest (58).txt" />
+    <Text Include="!!! DPOTest (65).txt" />
+    <Text Include="!!!! DPOTest (60).txt" />
+    <Text Include="!!!! DPOTest (64).txt" />
+    <Text Include="!!!!! DPOTest (43).txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="config.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dpo.aps" />
   </ItemGroup>
 </Project>

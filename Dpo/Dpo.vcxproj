@@ -30,7 +30,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{D272E63B-37C1-41F3-8476-4520EDA156DC}</ProjectGuid>
     <RootNamespace>Dpo</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -277,7 +277,6 @@
     <ClInclude Include="src\math\math.h" />
     <ClInclude Include="src\math\matrix3.h" />
     <ClInclude Include="src\math\matrix4.h" />
-    <ClInclude Include="src\math\quaternion.h" />
     <ClInclude Include="src\math\simpleMath.h" />
     <ClInclude Include="src\math\vector2.h" />
     <ClInclude Include="src\math\vector3.h" />
@@ -318,6 +317,19 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="!!! DPOTest (58).txt" />
+    <Text Include="!!! DPOTest (65).txt" />
+    <Text Include="!!!! DPOTest (60).txt" />
+    <Text Include="!!!! DPOTest (64).txt" />
+    <Text Include="!!!!! DPOTest (43).txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="config.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dpo.aps" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
